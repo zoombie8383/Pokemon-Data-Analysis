@@ -6,12 +6,12 @@ This package provides an implementation of Pokemon data analysis, whcih is origi
 
 ### Data description
 This dataset is from [Pokemon - Weedle's Cavev]() of Kaggle. 
- - 'combats.csv'
- - 'pokemon.csv'
+ - '''combats.csv'''
+ - '''pokemon.csv'''
  
  *Note that: 
-  *'pokemon.csv' is the dataset of pokedex
-  *'combats.csv' is the dataset inclduing battle records of the pokemons. 
+  *'''pokemon.csv''' is the dataset of pokedex
+  *'''combats.csv''' is the dataset inclduing battle records of the pokemons. 
   
   ## Install
   * Python 3.7
