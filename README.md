@@ -1,4 +1,4 @@
-# **Pokemon-Data-Analysis**
+# Pokemon-Data-Analysis
 
 ## Overview
 
