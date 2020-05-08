@@ -14,6 +14,7 @@ This dataset is from [Pokemon - Weedle's Cave](https://www.kaggle.com/terminus7/
  *Note that: 
   *```pokemon.csv``` is the dataset of pokedex
   *```combats.csv``` is the dataset inclduing battle records of the pokemons. 
+  *```tests.csv``` is not used for our analysis.
   
   ## Install
   * Python 3.7
