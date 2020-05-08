@@ -1,8 +1,8 @@
-# Pokemon-Data-Analysis
+# **Pokemon-Data-Analysis**
 
 ## Overview
 
-This package provides an implementation of Pokemon data analysis, whcih is originated from [Michael Metter's kernal](https://www.kaggle.com/mmetter/pokemon-data-analysis-tutorial/notebook). 
+This package provides an implementation of Pokemon data analysis, whcih is referred from [Michael Metter's kernal](https://www.kaggle.com/mmetter/pokemon-data-analysis-tutorial/notebook). 
 
 ### Data description
 This dataset is from [Pokemon - Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) of Kaggle. 
