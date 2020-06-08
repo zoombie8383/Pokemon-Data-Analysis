@@ -4,13 +4,23 @@ This project is referring Siddarth Yadav's kernel showing the popular visualizat
 We can practice various rare visualization techniques as well as simple techniques with plotly library.
 
 # 10 Unique Data Graphing Techniques: 
-*** Distplot 
-*** Boxplot
-*** Radarchart 
-*** Scatterplot 
-*** Contour Plot 
-*** Bubble Plot 
-*** Treemap
-*** Bullet Chart 
-*** Scatterplot Matrix 
-*** Violin Plot 
+- Distplot
+
+- Boxplot
+
+- Radarchart
+
+- Scatterplot
+
+- Contour Plot
+
+- Bubble Plot
+
+- Treemap
+
+- Bullet Chart 
+
+- Scatterplot Matrix 
+
+- Violin Plot 
+
