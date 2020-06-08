@@ -14,7 +14,7 @@ Pokemon Data Project
 ```
 ### Data description
 
-This dataset is from [Intermediate visualization tutorial using Plotly](https://www.kaggle.com/thebrownviking20/intermediate-visualization-tutorial-using-plotly) of Kaggle. 
+This dataset is from [Pokemon Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) of Kaggle. 
  - ```combats.csv```
  - ```pokemon.csv```
  - `tests.csv`
