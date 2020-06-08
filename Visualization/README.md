@@ -4,6 +4,7 @@ This project is referring Siddarth Yadav's kernel showing the popular visualizat
 We can practice various rare visualization techniques as well as simple techniques with plotly library.
 
 ### 10 Unique Data Graphing Techniques: 
+```
 - Distplot
 
 - Boxplot
